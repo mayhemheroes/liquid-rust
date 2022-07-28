@@ -1,0 +1,7 @@
+project: liquid-rust
+target: parse-template
+
+cmds:
+  - cmd: /parse_template
+  - cmd: /parse_template_no_inst @@
+    libfuzzer: false
