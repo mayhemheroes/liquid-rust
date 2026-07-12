@@ -1,0 +1,5 @@
+project: liquid-rust
+target: parse-template
+
+cmds:
+  - cmd: /mayhem/parse_template
